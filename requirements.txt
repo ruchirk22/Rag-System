@@ -1,0 +1,6 @@
+streamlit
+langchain
+chromadb
+ollama        # if using the official Python client
+requests
+pypdf
